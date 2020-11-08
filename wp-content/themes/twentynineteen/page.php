@@ -15,9 +15,11 @@ get_header();
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
-			<?php
+		<!-- <iframe src="https://giphy.com/embed/An95xQZRS1B1S" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twin-peaks-thumbs-up-An95xQZRS1B1S">via GIPHY</a></p> -->
 
-			<iframe src="https://giphy.com/embed/An95xQZRS1B1S" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twin-peaks-thumbs-up-An95xQZRS1B1S">via GIPHY</a></p>
+		<h1>Some code chage</h1>
+		
+			<?php
 
 			// Start the Loop.
 			while ( have_posts() ) :
