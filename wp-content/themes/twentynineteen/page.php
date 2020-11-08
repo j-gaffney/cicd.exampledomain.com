@@ -16,6 +16,9 @@ get_header();
 		<main id="main" class="site-main">
 
 		<p style="margin: 0 calc(10% + 60px);">
+		<p>
+			Tada!
+		</p>
 			<img src="https://media.giphy.com/media/An95xQZRS1B1S/source.gif" />
 		</p>
 
