@@ -15,7 +15,7 @@ get_header();
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
-		<p style="text-align: center">
+		<p style="margin: 0 calc(10% + 60px);">
 			<img src="https://media.giphy.com/media/An95xQZRS1B1S/source.gif" />
 		</p>
 
